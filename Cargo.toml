@@ -1,7 +1,8 @@
 [package]
-name = "rust-data-project"
+name = "rust-medallion"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
 polars = { version = "0.40", features = ["csv-file"] }
+plotters = "0.3"
