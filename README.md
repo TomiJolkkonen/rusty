@@ -1,3 +1,3 @@
 # Rust Project
 
-A simple Rust program that prints a greeting.
+Small data project with Rust as a practice
